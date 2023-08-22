@@ -1,2 +1,3 @@
 # autocompleter
-A module that helps you have an eficcient auto-complete
+A module that helps you have an efficient auto-complete
+
